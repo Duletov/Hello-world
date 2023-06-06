@@ -1,5 +1,5 @@
 # Hello-world
-First project
+*First project*
 My name is Dmitriy
 I am from Russia
 Try another language Работает.
